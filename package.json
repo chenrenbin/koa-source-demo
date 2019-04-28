@@ -1,0 +1,24 @@
+{
+  "name": "koa-source-demo",
+  "version": "1.0.0",
+  "description": "koa-source-code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "koa": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenrenbin/koa-source-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenrenbin/koa-source-demo/issues"
+  },
+  "homepage": "https://github.com/chenrenbin/koa-source-demo#readme",
+  "devDependencies": {
+    "http": "0.0.0",
+    "koa": "^2.7.0"
+  }
+}
